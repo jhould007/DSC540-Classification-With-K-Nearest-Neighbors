@@ -1,5 +1,5 @@
 # DSC540-Classification-With-K-Nearest-Neighbors
- An assignment for DSC540 at GCU that focused on building a classification model powered by the k-nearest neighbors algorithm. 
+ An assignment for DSC540 (Machine Learning for Data Science) at GCU that focused on building a classification model powered by the k-nearest neighbors algorithm. 
 
 Check out the full report [here.](https://github.com/jhould007/DSC540-Classification-With-K-Nearest-Neighbors/blob/main/Classification%20with%20K-Nearest%20Neighbors.ipynb)
 
